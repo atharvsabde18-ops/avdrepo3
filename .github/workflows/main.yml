@@ -16,4 +16,4 @@ jobs:
 
 
         - name: run python program
-          run: python welocme.py
+          run: python welcome.py
